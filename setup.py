@@ -8,5 +8,5 @@ setup(name='mcelhaneyhelpers',
       author_email='matthewmcelhaney@gmail.com',
       license='MIT',
       packages=['mcelhaneyhelpers'],
-      install_requires=['datetime', 'json', 'os'],
+      install_requires=['datetime'],
       zip_safe=False)
