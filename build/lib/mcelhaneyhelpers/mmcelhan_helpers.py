@@ -1,7 +1,6 @@
 import datetime
 import json
 import os
-from mcelhaneyhelpers import Logger
 
 
 def generate_text_file_with_timestamp(base_name):
