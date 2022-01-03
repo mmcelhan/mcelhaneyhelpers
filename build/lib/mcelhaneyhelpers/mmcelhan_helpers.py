@@ -1,6 +1,7 @@
 import datetime
 import json
 import os
+from logger import Logger
 
 
 def generate_text_file_with_timestamp(base_name):
