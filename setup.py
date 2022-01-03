@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mcelhaneyhelpers',
-      version='0.31',
+      version='0.32',
       description='collection of helper and logger functions',
       url='https://lamplightlab.com',
       author='Matthew McElhaney',
