@@ -1,4 +1,4 @@
-from mmcelhan_helpers import make_dir_if_not_exists
+from .mmcelhan_helpers import make_dir_if_not_exists
 import os
 
 
